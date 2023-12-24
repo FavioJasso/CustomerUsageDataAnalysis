@@ -33,3 +33,5 @@ By using a multiple linear model, we have created a much more accurate predictor
 - Mean Absolute Percentage Error 0.07 to 0.01 
 - The Root Mean Square Errorwent from 47.14 to 9.97 dollars.
 
+To get better insight and understanding on the Regression Model, I suggest checking Main.R for the source code. All my code is properly documented throughout my project. 
+
