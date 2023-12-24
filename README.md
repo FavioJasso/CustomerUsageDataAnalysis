@@ -1,18 +1,28 @@
 # CustomerUsageDataAnalysis
-I used R to create a linear regression model with a single variable and multivariable analysis for Ecommerce Customer Device Usage. 
+I used R to create a linear regression model with a single variable and multivariable analysis for an Ecommerce Customer Device Usage Data Set. The following visuals were done in the "ggplot2" library. 
 
-**EVALUATING THE MULTIPLE REGRESSION MODEL FINDINGS**
+**AVERAGE SESSION LENGTH VS YEARLY AMOUNT SPENT** 
 
-By using a multiple linear model, we have created a much more accuratec predictor of the response variable.
--->R2 went from 0.65 to 0.98
--->Mean Absolute Percentage Error 0.07 to 0.01 
--->The Root Mean Square Errorwent from 47.14 to 9.97 dollars.
+![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/AvgSessionLengthVSYearlyAmountSpent.png) 
+
+**TIME ON WEBSITE VS YEARLY AMOUNT SPENT** 
+
+![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/TimeOnWebsiteVsYearlyAmountSpent.png) 
 
 **FITTING A LINEAR MODEL** 
 
 ![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/FittingLinearModel.png)
 
 **RESIDUALS ANALYSIS**
+
 ![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/NormalQQPlot.png)
 
+
+**EVALUATING THE MULTIPLE REGRESSION MODEL FINDINGS**
+
+By using a multiple linear model, we have created a much more accurate predictor of the response variable.
+
+- R2 went from 0.65 to 0.98
+- Mean Absolute Percentage Error 0.07 to 0.01 
+- The Root Mean Square Errorwent from 47.14 to 9.97 dollars.
 
