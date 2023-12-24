@@ -1,4 +1,4 @@
-# Customer Usage Data Analysis
+# Customer Usage Data Analysis & Predictions 
 I used R to create a linear regression model with a single variable and multivariable analysis for an Ecommerce Customer Device Usage Data Set. The following visuals were done in the "ggplot2" library. The model was able to successfully make strong predictions on future user data and behaviour and prvovide valuable insights. 
 
 ## CREATATION OF PLOTS AND SEARCHING FOR INSIGHTS ##
