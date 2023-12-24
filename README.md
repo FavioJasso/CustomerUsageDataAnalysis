@@ -1,6 +1,8 @@
 # CustomerUsageDataAnalysis
 I used R to create a linear regression model with a single variable and multivariable analysis for an Ecommerce Customer Device Usage Data Set. The following visuals were done in the "ggplot2" library. 
 
+## CREATATION OF PLOTS AND SEARCHING FOR INSIGHTS ##
+
 **AVERAGE SESSION LENGTH VS YEARLY AMOUNT SPENT** 
 
 ![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/AvgSessionLengthVSYearlyAmountSpent.png) 
