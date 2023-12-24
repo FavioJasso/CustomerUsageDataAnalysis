@@ -16,7 +16,7 @@ I used R to create a linear regression model with a single variable and multivar
 ![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/Pair%20Plot%20of%20continuous%20variables.png)
 
 
-###FITTING A LINEAR MODEL### 
+### FITTING A LINEAR MODEL ### 
 
 ![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/FittingLinearModel.png)
 
