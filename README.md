@@ -13,6 +13,6 @@ By using a multiple linear model, we have created a much more accuratec predicto
 ![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/FittingLinearModel.png)
 
 **RESIDUALS ANALYSIS***
-<Normal QQ Plot> 
+![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/NormalQQPlot.png)
 
 
