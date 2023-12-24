@@ -5,24 +5,23 @@ I used R to create a linear regression model with a single variable and multivar
 
 **AVERAGE SESSION LENGTH VS YEARLY AMOUNT SPENT** 
 
-![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/AvgSessionLengthVSYearlyAmountSpent.png) 
+![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/ImagesForLinearRegressionProject/AvgSessionLengthVSYearlyAmountSpent.png)
 
 **TIME ON WEBSITE VS YEARLY AMOUNT SPENT** 
 
-![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/TimeOnWebsiteVsYearlyAmountSpent.png) 
+![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/ImagesForLinearRegressionProject/TimeOnWebsiteVsYearlyAmountSpent.png)
 
 **PAIR PLOT OF ALL CONTINUOUS VARIABLES**
 
-![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/Pair%20Plot%20of%20continuous%20variables.png)
-
+![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/ImagesForLinearRegressionProject/Pair%20Plot%20of%20continuous%20variables.png)
 
 ### FITTING A LINEAR MODEL ### 
 
-![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/FittingLinearModel.png)
+![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/ImagesForLinearRegressionProject/FittingLinearModel.png) 
 
 **RESIDUALS ANALYSIS**
 
-![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/NormalQQPlot.png)
+![Preview](https://github.com/FavioJasso/CustomerUsageDataAnalysis/blob/main/ImagesForLinearRegressionProject/NormalQQPlot.png) 
 
 
 **EVALUATING THE MULTIPLE REGRESSION MODEL FINDINGS**
